@@ -6,7 +6,6 @@ namespace P1Xadrez
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
