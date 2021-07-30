@@ -4,6 +4,7 @@
     {
         Preta,
         Branca,
-        Amarela
+        Amarela,
+        Vermelho
     }
 }
