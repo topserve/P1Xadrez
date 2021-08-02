@@ -34,7 +34,7 @@
             pecas[pos.linha, pos.coluna] = p;
             p.posicao = pos;
         }
-        public Peca retirarPeca(Posicao pos)
+        public Peca RetirarPeca(Posicao pos)
         {
             if (peca(pos) == null)
             {
