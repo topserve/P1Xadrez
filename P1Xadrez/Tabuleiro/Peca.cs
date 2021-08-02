@@ -14,5 +14,9 @@
             this.cor = cor;
             this.qteMov = 0;
         }
+        public void incrementarQteMovimentos()
+        {
+            qteMov++;
+        }
     }
 }
